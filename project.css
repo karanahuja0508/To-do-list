@@ -1,0 +1,48 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: rgb(250,233,210);
+}
+  
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    font-weight: 550;
+    margin-top: 30px;
+    margin-right: 80px;
+    
+}
+#input{
+    width: 260px;
+    height: 43px;
+    background-color: white;
+}
+#input:hover {
+    border-color: rgb(80, 199, 238);
+}
+.add-task{
+    height: 35px !important;
+}
+.buttons{
+    width:30px;
+    margin:2px ;
+    border-radius: 5%;
+    border:0px;
+
+}
+.bts{
+    width: 100px;
+    height: 47px;
+    background-color: lightgrey;
+    color: black;
+    margin-left: 5px;
+}
+
+
+.divii{
+    text-align: center;
+}
+.span{
+    word-break: break-word;
+}
